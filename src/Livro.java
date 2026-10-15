@@ -3,9 +3,4 @@ public class Livro {
     public String nome;
     public int paginas;
     public String autor;
-
-    public void pagu() {
-
     }
-}
-
